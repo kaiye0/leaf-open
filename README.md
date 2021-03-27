@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 -->
+
+🔭 I’m currently working on machine learning on power generation and dispatch in renewable energy systems.
+🌱 I’m currently learning reinforcement learning, power system analysis, complexity science
+👯 I’m looking to collaborate on smart grid, renewables
+😄 Pronouns: He/Him
